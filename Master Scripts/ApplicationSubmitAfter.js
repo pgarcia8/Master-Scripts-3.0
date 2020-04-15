@@ -26,7 +26,7 @@ var documentOnly = false;						// Document Only -- displays hierarchy of std cho
 | END User Configurable Parameters
 /------------------------------------------------------------------------------------------------------*/
 var SCRIPT_VERSION = 3.0;
-var useCustomScriptFile = true;  // if true, use Events->Custom Script, else use Events->Scripts->INCLUDES_CUSTOM
+var useCustomScriptFile = false;  // if true, use Events->Custom Script, else use Events->Scripts->INCLUDES_CUSTOM
 var useSA = false;
 var SA = null;
 var SAScript = null;
